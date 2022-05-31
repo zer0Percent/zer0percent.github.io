@@ -19,79 +19,6 @@
       <guid>/project/coalas/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>Observatorio Lázaro</title>
-      <link>/project/observatoriolazaro/</link>
-      <pubDate>Fri, 31 Dec 2021 00:00:00 +0100</pubDate>
-      
-      <guid>/project/observatoriolazaro/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>@LazaroBot</title>
-      <link>/project/lazarobot/</link>
-      <pubDate>Tue, 30 Nov 2021 00:00:00 +0100</pubDate>
-      
-      <guid>/project/lazarobot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ADoBo</title>
-      <link>/project/adobo/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 +0100</pubDate>
-      
-      <guid>/project/adobo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Caravaggio</title>
-      <link>/project/caravaggio/</link>
-      <pubDate>Thu, 01 Oct 2020 00:00:00 +0200</pubDate>
-      
-      <guid>/project/caravaggio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Morssa</title>
-      <link>/project/morssa/</link>
-      <pubDate>Wed, 30 Sep 2020 00:00:00 +0200</pubDate>
-      
-      <guid>/project/morssa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Corpus of political speeches</title>
-      <link>/project/orgulloysatisfa/</link>
-      <pubDate>Fri, 20 Dec 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/project/orgulloysatisfa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NER4Podcasts</title>
-      <link>/project/ner4podcasts/</link>
-      <pubDate>Fri, 20 Dec 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/project/ner4podcasts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Figurative language classification</title>
-      <link>/project/figurativelanguage/</link>
-      <pubDate>Fri, 31 May 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/project/figurativelanguage/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>Subtitles Corpus</title>
       <link>/project/subtitles/</link>
@@ -100,24 +27,6 @@
       <guid>/project/subtitles/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>Aracne</title>
-      <link>/project/aracne/</link>
-      <pubDate>Thu, 31 Dec 2015 00:00:00 +0100</pubDate>
-      
-      <guid>/project/aracne/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AZRAEL</title>
-      <link>/project/azrael/</link>
-      <pubDate>Tue, 01 Sep 2009 00:00:00 +0200</pubDate>
-      
-      <guid>/project/azrael/</guid>
-      <description></description>
-    </item>
-    
+
   </channel>
 </rss>
