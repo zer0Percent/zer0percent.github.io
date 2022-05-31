@@ -20,50 +20,6 @@
       <description></description>
     </item>
     
-    <item>
-      <title>Observatorio Lázaro</title>
-      <link>/project/observatoriolazaro/</link>
-      <pubDate>Fri, 31 Dec 2021 00:00:00 +0100</pubDate>
-      
-      <guid>/project/observatoriolazaro/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>@LazaroBot</title>
-      <link>/project/lazarobot/</link>
-      <pubDate>Tue, 30 Nov 2021 00:00:00 +0100</pubDate>
-      
-      <guid>/project/lazarobot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Caravaggio</title>
-      <link>/project/caravaggio/</link>
-      <pubDate>Thu, 01 Oct 2020 00:00:00 +0200</pubDate>
-      
-      <guid>/project/caravaggio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Corpus of political speeches</title>
-      <link>/project/orgulloysatisfa/</link>
-      <pubDate>Fri, 20 Dec 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/project/orgulloysatisfa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NER4Podcasts</title>
-      <link>/project/ner4podcasts/</link>
-      <pubDate>Fri, 20 Dec 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/project/ner4podcasts/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Subtitles Corpus</title>
@@ -71,24 +27,6 @@
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0100</pubDate>
       
       <guid>/project/subtitles/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Aracne</title>
-      <link>/project/aracne/</link>
-      <pubDate>Thu, 31 Dec 2015 00:00:00 +0100</pubDate>
-      
-      <guid>/project/aracne/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AZRAEL</title>
-      <link>/project/azrael/</link>
-      <pubDate>Tue, 01 Sep 2009 00:00:00 +0200</pubDate>
-      
-      <guid>/project/azrael/</guid>
       <description></description>
     </item>
     
