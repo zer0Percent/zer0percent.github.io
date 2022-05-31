@@ -19,5 +19,14 @@
       <description></description>
     </item>
 
+    <item>
+      <title>Sentiment Analysis with Recurrent Neural Networks</title>
+      <link>/project/sentimentanalysisrnn/</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>/project/sentimentanalysisrnn/</guid>
+      <description></description>
+    </item>
+
   </channel>
 </rss>
