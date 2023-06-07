@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Álvaro Domínguez Calvo on Álvaro Domínguez Calvo</title>
+    <link>/</link>
+    <description>Recent content in Álvaro Domínguez Calvo on Álvaro Domínguez Calvo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sentiment Analysis: Comparative between Machine and Deep Learning techniques</title>
+      <link>/project/sentimentanalysisml/</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>/project/sentimentanalysisml/</guid>
+      <description></description>
+    </item>
+
+    <item>
+      <title>Sentiment Analysis with Recurrent Neural Networks</title>
+      <link>/project/sentimentanalysisrnn/</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>/project/sentimentanalysisrnn/</guid>
+      <description></description>
+    </item>
+
+    <item>
+      <title>Multilingual trend analysis and event detection: Using topic models and clustering methods over Twitter data</title>
+      <link>/project/sentimentanalysisrnn/</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>/project/sentimentanalysisrnn/</guid>
+      <description></description>
+    </item>
+
+  </channel>
+</rss>
