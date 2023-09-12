@@ -10,6 +10,13 @@
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>To Kill A Tweeting Bird (✨Thread's version✨)</title>
+      <link>/project/tokillatweetingbird/</link>
+      <pubDate>Tu, 12 Sep 2023 00:00:00 +0100</pubDate>
+      <guid>/project/tokillatweetingbird/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Sentiment Analysis: Comparative between Machine and Deep Learning techniques</title>
@@ -31,10 +38,10 @@
 
     <item>
       <title>Multilingual trend analysis and event detection: Using topic models and clustering methods over Twitter data</title>
-      <link>/project/sentimentanalysisrnn/</link>
+      <link>/project/topicmodelling/</link>
       <pubDate>Fri, 31 Dec 2021 00:00:00 +0100</pubDate>
       
-      <guid>/project/sentimentanalysisrnn/</guid>
+      <guid>/project/topicmodelling/</guid>
       <description></description>
     </item>
 
